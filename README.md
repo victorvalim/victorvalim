@@ -23,7 +23,7 @@ Olá, me chamo **Victor Valim**, sou do Rio de Janeiro, Brasil mas moro em Curit
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para victor.valim.c@gmail.com para me encontrar.
-- 📝 Veja meu <a href="https://gitconnected.com/v1/portfolio/victorvalim" target="_blank">Curriculum Vitae</a> para mais informações.
+- 📝 Veja meu <a href="https://gitconnected.com/victorvalim/resume" target="_blank">Curriculum Vitae</a> para mais informações.
 
 
 **Linguagens e ferramentas:**  
