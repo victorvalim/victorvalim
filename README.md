@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Victor](https://victorvalim.github.io/)
+### Hey 👋, I'm [Victor](https://victorvalim.github.io/portfolio/)
 
 <a href="https://github.com/victorvalim" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
