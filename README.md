@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo **Victor Valim**, sou do Rio de Janeiro, Brasil mas moro em Curitiba no momento, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 👨🏽‍💼 e atualmente trabalho como **Freelancer** 🚀. 
+Olá, me chamo **Victor Valim**, sou do Rio de Janeiro, Brasil mas moro em Curitiba no momento, estou me capacitando para ser um **Desenvolvedor Full-Stack Júnior** 👨🏽‍💼 e atualmente trabalho como **Desenvolvedor Front-end na Startlaw** 🚀. 
 
 **Meus interesses pessoais:**
 
