@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo **Victor Valim**, sou do Rio de Janeiro, Brasil mas moro em São Paulo no momento, estou me capacitando para ser um **Desenvolvedor Full-Stack e Mobile** 👨🏽‍💼 e atualmente trabalho como **Desenvolvedor Front-end Júnior na Netbiis** 🚀. 
+Olá, me chamo **Victor Valim**, sou do Rio de Janeiro, Brasil mas moro em São Paulo no momento, estou me capacitando para ser um **Desenvolvedor Full-Stack e Mobile** 👨🏽‍💼 e atualmente trabalho como **Desenvolvedor Front-end Júnior na PushStart** 🚀. 
 
 **Meus interesses pessoais:**
 
