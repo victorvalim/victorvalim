@@ -11,13 +11,13 @@
 <br />
 <br />
 
-Olá, me chamo **Victor Valim**, sou do Rio de Janeiro, Brasil mas moro em São Paulo no momento, estou me capacitando para ser um **Desenvolvedor Full-Stack e Mobile** 👨🏽‍💼 e atualmente trabalho como **Desenvolvedor Front-end Júnior na PushStart** 🚀. 
+Olá, me chamo **Victor Valim**, sou do Rio de Janeiro, Brasil mas moro em São Paulo no momento, estou me capacitando para ser um **Desenvolvedor Full-Stack e Mobile** 👨🏽‍💼 e atualmente trabalho como **Software developer no Mercado Livre** 🚀. 
 
 **Meus interesses pessoais:**
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando backend pela primeira vez, me preparando para daqui a um tempo estar desenvolvendo com **Express** que é um framework em **Node.js**;
+- 👨🏽‍💻 Estou estudando backend pela primeira vez. atuando com **Golang**;
 - 🌱 Estou aprendendo o máximo que posso sobre estilização usando **Styled-Components** com meus projetos de **front-end**; 
 - 🤔 Meus hobbies são matemática e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
