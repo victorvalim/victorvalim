@@ -17,9 +17,9 @@ Olá, me chamo **Victor Valim**, sou do Rio de Janeiro, Brasil mas moro em São 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 
-- 👨🏽‍💻 Estou estudando backend pela primeira vez. atuando com **Golang**;
-- 🌱 Estou aprendendo o máximo que posso sobre estilização usando **Styled-Components** com meus projetos de **front-end**; 
-- 🤔 Meus hobbies são matemática e jogos online;
+- 👨🏽‍💻 Estou num novo desafia, trabalhando com backend pela primeira vez e usando **Golang** como stack principal;
+- 🌱 Estou aprendendo o máximo que posso sobre estilização usando **Styled-Components** com meus projetos de **front-end** e atualmente também trabalhando com server-side; 
+- 🤔 Meus hobbies são magic e jogos online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 - 📫 Por favor, envie um email para victor.valim.c@gmail.com para me encontrar.
